@@ -1,0 +1,3 @@
+Alterar o texto da primeira página de \"junior full stack developer\" para \"Full stack developer\".
+
+Um Full Stack Developer é um programador que possui habilidades de backend e frontend, trabalhando com tecnologias de backend e frontend para desenvolver aplicações completas e escaláveis. Além disso, eles colaboram em todos os estágios do ciclo de desenvolvimento de software, do design da interface do usuário ao deploy da aplicação.
